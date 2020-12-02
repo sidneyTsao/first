@@ -1,0 +1,11 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sidneyTsao/first.git",
+  "author": "andy <popuu88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
